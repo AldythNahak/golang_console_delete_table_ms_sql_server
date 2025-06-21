@@ -50,3 +50,22 @@ go get github.com/denisenkom/go-mssqldb
 go get github.com/jmoiron/sqlx
 go get golang.org/x/term
 ```
+
+---
+
+## 📖 Goal
+
+This repository serves as a learning log, a reference for interview prep, and a contribution to the open-source learning community.
+
+---
+
+## 🧑‍💻 Author
+
+**Aldyth Nahak**  
+[LinkedIn](https://linkedin.com/in/aldythnahak) | [GitHub](https://github.com/AldythNahak)
+
+---
+
+## ⭐️ Contribute or Follow
+
+Feel free to fork, clone, or star this repo if you find it helpful!
